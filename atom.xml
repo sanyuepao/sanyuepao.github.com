@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-12-02T01:31:15.111Z</updated>
+  <updated>2018-12-02T14:07:36.505Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,9 +21,17 @@
     <link href="http://yoursite.com/2018/12/02/Flink/"/>
     <id>http://yoursite.com/2018/12/02/Flink/</id>
     <published>2018-12-02T00:31:31.000Z</published>
-    <updated>2018-12-02T01:31:15.111Z</updated>
+    <updated>2018-12-02T14:07:36.505Z</updated>
     
     <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Flink核心是一个流式的数据流执行引擎，其针对数据流的分布式计算提供了数据分布、数据通信以及容错机制等功能。基于流执行引擎，Flink提供了诸多更高抽象层的API以便用户编写分布式任务：&lt;br&gt;DataSet API，
+        
+      
     
     </summary>
     
