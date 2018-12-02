@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>争强而不好胜</title>
+  <title>三月泡</title>
   
-  <subtitle>追求稳定的人，最终都会被时代淘汰</subtitle>
+  <subtitle>三月泡生长在阳春三月天，把鲜红的美味奉献给世人</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
@@ -10,7 +10,7 @@
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>三月泡</name>
+    <name>王耀亨</name>
     
   </author>
   
