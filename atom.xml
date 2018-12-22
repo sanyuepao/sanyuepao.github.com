@@ -41,17 +41,11 @@
     <link href="http://yoursite.com/2018/12/02/Flink/"/>
     <id>http://yoursite.com/2018/12/02/Flink/</id>
     <published>2018-12-02T00:31:31.000Z</published>
-    <updated>2018-12-02T14:07:36.505Z</updated>
+    <updated>2018-12-22T11:02:10.063Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;Flink核心是一个流式的数据流执行引擎，其针对数据流的分布式计算提供了数据分布、数据通信以及容错机制等功能。基于流执行引擎，Flink提供了诸多更高抽象层的API以便用户编写分布式任务：&lt;br&gt;DataSet API，
-        
-      
+      &lt;p&gt;Flink核心是一个流式的数据流执行引擎，其针对数据流的分布式计算提供了数据分布、数据通信以及容错机制等功能。基于流执行引擎，Flink提供了诸多更高抽象层的API以便用户编写分布式任务：&lt;br&gt;DataSet API， 对静态数据进行批处理操作，将静态数据抽象成分布式的数据集，用户可以方便地使用Flink提供的各种操作符对分布式数据集进行处理，支持Java、Scala和Python。&lt;br&gt;
     
     </summary>
     
@@ -69,18 +63,11 @@
     <link href="http://yoursite.com/2018/12/02/%E7%BB%88%E8%BA%AB%E5%AD%A6%E4%B9%A0/"/>
     <id>http://yoursite.com/2018/12/02/终身学习/</id>
     <published>2018-12-02T00:31:31.000Z</published>
-    <updated>2018-12-02T13:33:21.945Z</updated>
+    <updated>2018-12-22T11:02:30.927Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;这是一个知识爆炸的时代，也是一个知识快速迭代的时代。有一句说的很形象：可能你早上一觉醒来，一个新的技术就在技术论坛上被人发布出来了。而你只能快速地去理解它，学习它，看看能不能为自己的工作带来有效的利益。&lt;/p&gt;
-
-        
-      
+      &lt;p&gt;这是一个知识爆炸的时代，也是一个知识快速迭代的时代。&lt;br&gt;
     
     </summary>
     
@@ -94,17 +81,12 @@
     <link href="http://yoursite.com/2018/12/02/hello-world/"/>
     <id>http://yoursite.com/2018/12/02/hello-world/</id>
     <published>2018-12-02T00:14:06.470Z</published>
-    <updated>2018-12-02T00:14:06.470Z</updated>
+    <updated>2018-12-22T11:02:52.208Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
-        
-      
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;
     
     </summary>
     
