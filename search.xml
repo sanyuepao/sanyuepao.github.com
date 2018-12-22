@@ -21,6 +21,17 @@
       </categories>
   </entry>
   <entry>
+    <title><![CDATA[怀念双亲]]></title>
+    <url>%2F2018%2F12%2F02%2Fparents%2F</url>
+    <content type="text"><![CDATA[冥冥天国，静静地府，九泉之下，栖吾父母。 先父（讳）荣江，祖父泽林翁之三子。生于民国三十五（一九四六）年丙戌四月十四亥时。先父为人勤劳憨厚，耿直豪爽，笃情重义，乐于助人，师从蔑业，惠及四邻。逾花甲有二，恸于公元二○○四年十二月初七日，寿终正寝，了却凡尘。葬罗家右侧斜路上山向兼**为茔。 先母（讳）卢氏桂香，生于公元一九五三年癸巳岁五月十九日子时，港口卢坊***人之女。先母慈亲贤厚，聪慧善良，娴于针指，乐于助人，终生勤于劳作，慎言善行，名著乡里，于公元二○一七年丁酉岁闰六月廿九日辰时寿终内寝，享年六十五岁。夫妇仝茔牛眠吉地。 先父母恩爱和睦，情深意长。初结缡，家境贫寒，夫妻携手，勤耕耘，起早贪黑；俭持家，精打细算。在外夫唱妻随，在家孝敬高堂，和睦邻里。二老嫡出二儿二女，生养哺育，善诲严教，含辛茹苦，呕心沥血。时过数载，儿女相继成家立业，膝下子孙萦绕，家道渐得中兴。然世事沧桑，风云多变，双亲操劳一生，本该尽享天伦，福安百年，孰料二老却匆匆西归，百唤不回，以致儿女殷勤之意未尽，垂教之训莫能闻矣！呜呼！树欲静而风不止，子欲养而亲不待，慈容无再见，教诲哪能闻！痛哉，一生劳作为儿女受尽辛酸；幸也，无牵无挂辞尘世含笑九泉！愿与仙鹤同游于祥天福地，佑子孙代代平安！ 拭泪执笔，拂涕铭文，勒石慰痛，纪吾双亲。 二〇一八年戊戌四月吉日]]></content>
+      <categories>
+        <category>程序人生</category>
+      </categories>
+      <tags>
+        <tag>parents</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Hello World]]></title>
     <url>%2F2018%2F12%2F02%2Fhello-world%2F</url>
     <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
